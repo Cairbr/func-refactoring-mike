@@ -1,0 +1,1 @@
+Refactoring of a LookUpProfile function with functionnal programming, a ternary, and && || 
